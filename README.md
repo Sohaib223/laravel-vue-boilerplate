@@ -13,8 +13,6 @@ A Laravel 8 Single Page Application boilerplate using Vue.js 2.6, GraphQL, Boots
 * Working service worker with Workbox for better PWA development.
 * Dockerfile configured with PHP 7.4, Node.js 12 and Composer, with MySQL and phpMyAdmin on Docker Compose.
 
-You can check it live [on this website](https://lvb.as.dev), with the credentials:
-
 Admin user
 
     E-mail: admin@example.com
